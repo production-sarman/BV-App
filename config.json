@@ -1,7 +1,5 @@
+
 {
-  "base_url":"https://quoted-apt-pine-scholars.trycloudflare.com"
+  "api_base_url": "https://quoted-apt-pine-scholars.trycloudflare.com",
+  "config_version": 1
 }
-
-
-
-
